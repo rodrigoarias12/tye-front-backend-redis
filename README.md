@@ -1,2 +1,2 @@
 # tye_example_redis
- Implemetación de ejemple tye + redis
+ Implemetación de ejemplo tye + redis
